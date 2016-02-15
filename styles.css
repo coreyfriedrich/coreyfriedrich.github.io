@@ -1,0 +1,36 @@
+body {
+	padding-left: 200px;
+	padding-right: 200px;
+	font-family: Times;
+}
+h1 {
+	font-size: 60px;
+	font-family: Bodoni MT Black;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+}
+h2 {
+	font-style: bold;
+	font-size: 17px;
+}
+h3 {
+	font-style: bold;
+	font-size: 17px;
+}
+h4 {
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-size: 35px;
+	font-family: Bodoni MT Black;
+}
+h5 {
+	border-bottom-style: dashed;
+	border-bottom-width: 1px;
+	display: inline;
+	font-size: 25px;
+	font-family: Rockwell;
+}
+h6 {
+	font-size: 17px;
+	font-family: Rockwell;
+}
